@@ -8,13 +8,22 @@
         <outputRelativeToContentRoot value="true" />
         <module name="admin-client" />
         <module name="admin-server" />
+        <module name="cloud-rabbit" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="admin-client" target="1.5" />
-      <module name="admin-server" target="1.5" />
-      <module name="cloud" target="1.5" />
+      <module name="admin-client" target="1.8" />
+      <module name="admin-server" target="1.8" />
+      <module name="cloud" target="1.8" />
+      <module name="cloud-rabbit" target="1.8" />
       <module name="springcloud" target="1.5" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin-client" options="-parameters" />
+      <module name="admin-server" options="-parameters" />
+      <module name="cloud-rabbit" options="-parameters" />
+    </option>
   </component>
 </project>

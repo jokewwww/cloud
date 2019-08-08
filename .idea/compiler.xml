@@ -11,6 +11,8 @@
         <module name="cloud-rabbit" />
         <module name="rabbit-direct-consumer" />
         <module name="rabbit-direct-provider" />
+        <module name="rabbit-fanout-consumer" />
+        <module name="rabbit-fanout-provider" />
         <module name="rabbit-topic-consumer" />
         <module name="rabbit-topic-provider" />
       </profile>
@@ -22,6 +24,8 @@
       <module name="cloud-rabbit" target="1.8" />
       <module name="rabbit-direct-consumer" target="1.8" />
       <module name="rabbit-direct-provider" target="1.8" />
+      <module name="rabbit-fanout-consumer" target="1.8" />
+      <module name="rabbit-fanout-provider" target="1.8" />
       <module name="rabbit-topic-consumer" target="1.8" />
       <module name="rabbit-topic-provider" target="1.8" />
       <module name="springcloud" target="1.5" />
@@ -34,6 +38,8 @@
       <module name="cloud-rabbit" options="-parameters" />
       <module name="rabbit-direct-consumer" options="-parameters" />
       <module name="rabbit-direct-provider" options="-parameters" />
+      <module name="rabbit-fanout-consumer" options="-parameters" />
+      <module name="rabbit-fanout-provider" options="-parameters" />
       <module name="rabbit-topic-consumer" options="-parameters" />
       <module name="rabbit-topic-provider" options="-parameters" />
     </option>

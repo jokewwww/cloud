@@ -22,6 +22,8 @@
         <module>rabbit-direct-provider</module>
         <module>rabbit-topic-provider</module>
         <module>rabbit-topic-consumer</module>
+        <module>rabbit-fanout-consumer</module>
+        <module>rabbit-fanout-provider</module>
     </modules>
 
     <properties>

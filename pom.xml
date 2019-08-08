@@ -18,6 +18,10 @@
         <module>admin-server</module>
         <module>admin-client</module>
         <module>cloud-rabbit</module>
+        <module>rabbit-direct-consumer</module>
+        <module>rabbit-direct-provider</module>
+        <module>rabbit-topic-provider</module>
+        <module>rabbit-topic-consumer</module>
     </modules>
 
     <properties>

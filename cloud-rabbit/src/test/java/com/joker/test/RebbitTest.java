@@ -10,6 +10,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.context.junit4.SpringRunner;
 
+import java.util.concurrent.TimeUnit;
+
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = ServerApplication.class)
 public class RebbitTest {
@@ -17,8 +19,10 @@ public class RebbitTest {
     @Autowired
     private Sender sender;
     @Test
-    public void test1(){
-        sender.send("rabbitMQ...go...");
+    public void test1() throws InterruptedException {
+
+            sender.send("rabbit....go...");
+
     }
 
 }

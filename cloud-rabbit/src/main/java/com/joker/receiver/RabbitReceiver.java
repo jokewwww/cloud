@@ -14,6 +14,7 @@ public class RabbitReceiver {
      */
     @RabbitListener(queues = {"hello-queue"})
     public void process(String msg){
+
         System.out.println("receiver:..."+msg);
     }
 

@@ -9,6 +9,10 @@
         <module name="admin-client" />
         <module name="admin-server" />
         <module name="cloud-rabbit" />
+        <module name="rabbit-direct-consumer" />
+        <module name="rabbit-direct-provider" />
+        <module name="rabbit-topic-consumer" />
+        <module name="rabbit-topic-provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +20,10 @@
       <module name="admin-server" target="1.8" />
       <module name="cloud" target="1.8" />
       <module name="cloud-rabbit" target="1.8" />
+      <module name="rabbit-direct-consumer" target="1.8" />
+      <module name="rabbit-direct-provider" target="1.8" />
+      <module name="rabbit-topic-consumer" target="1.8" />
+      <module name="rabbit-topic-provider" target="1.8" />
       <module name="springcloud" target="1.5" />
     </bytecodeTargetLevel>
   </component>
@@ -24,6 +32,10 @@
       <module name="admin-client" options="-parameters" />
       <module name="admin-server" options="-parameters" />
       <module name="cloud-rabbit" options="-parameters" />
+      <module name="rabbit-direct-consumer" options="-parameters" />
+      <module name="rabbit-direct-provider" options="-parameters" />
+      <module name="rabbit-topic-consumer" options="-parameters" />
+      <module name="rabbit-topic-provider" options="-parameters" />
     </option>
   </component>
 </project>

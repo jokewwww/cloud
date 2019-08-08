@@ -26,6 +26,7 @@
         <module>rabbit-fanout-provider</module>
         <module>rabbit-ack-direct-consumer</module>
         <module>rabbit-ack-direct-provider</module>
+        <module>cloud-eureka</module>
     </modules>
 
     <properties>
@@ -38,5 +39,7 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
     </dependencies>
+
+
 
 </project>

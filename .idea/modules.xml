@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/admin-client/admin-client.iml" filepath="$PROJECT_DIR$/admin-client/admin-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/admin-server/admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cloud.iml" filepath="$PROJECT_DIR$/.idea/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" filepath="$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-rabbit/cloud-rabbit.iml" filepath="$PROJECT_DIR$/cloud-rabbit/cloud-rabbit.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbit-ack-direct-consumer/rabbit-ack-direct-consumer.iml" filepath="$PROJECT_DIR$/rabbit-ack-direct-consumer/rabbit-ack-direct-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbit-ack-direct-provider/rabbit-ack-direct-provider.iml" filepath="$PROJECT_DIR$/rabbit-ack-direct-provider/rabbit-ack-direct-provider.iml" />

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-rabbit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-direct-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-direct-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-topic-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-topic-provider" charset="UTF-8" />
+  </component>
+</project>

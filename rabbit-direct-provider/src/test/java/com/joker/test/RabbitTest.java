@@ -20,11 +20,11 @@ public class RabbitTest {
 
     @Test
     public void test() throws InterruptedException {
-
+            int flag=0;
             while (true){
                 TimeUnit.SECONDS.sleep(2);
-                sender.send("rabbit-Direct模型....go,,,,");
-                System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
+                sender.send("rabbit-Direct模型....go "+flag++);
+                System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
             }
     }
 

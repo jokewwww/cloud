@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/admin-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/admin-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-rabbit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-ack-direct-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbit-ack-direct-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rabbit-direct-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rabbit-direct-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rabbit-fanout-consumer" charset="UTF-8" />

@@ -27,6 +27,7 @@
         <module>rabbit-ack-direct-consumer</module>
         <module>rabbit-ack-direct-provider</module>
         <module>cloud-eureka</module>
+        <module>cloud-eureka-ha</module>
     </modules>
 
     <properties>

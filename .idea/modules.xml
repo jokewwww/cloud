@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" filepath="$PROJECT_DIR$/cloud-eureka/cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-eureka-ha/cloud-eureka-ha.iml" filepath="$PROJECT_DIR$/cloud-eureka-ha/cloud-eureka-ha.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-rabbit/cloud-rabbit.iml" filepath="$PROJECT_DIR$/cloud-rabbit/cloud-rabbit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-simple-provide-user/eureka-simple-provide-user.iml" filepath="$PROJECT_DIR$/eureka-simple-provide-user/eureka-simple-provide-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-simplec-onsumer-movie/eureka-simplec-onsumer-movie.iml" filepath="$PROJECT_DIR$/eureka-simplec-onsumer-movie/eureka-simplec-onsumer-movie.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbit-ack-direct-consumer/rabbit-ack-direct-consumer.iml" filepath="$PROJECT_DIR$/rabbit-ack-direct-consumer/rabbit-ack-direct-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbit-ack-direct-provider/rabbit-ack-direct-provider.iml" filepath="$PROJECT_DIR$/rabbit-ack-direct-provider/rabbit-ack-direct-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbit-direct-consumer/rabbit-direct-consumer.iml" filepath="$PROJECT_DIR$/rabbit-direct-consumer/rabbit-direct-consumer.iml" />

@@ -28,6 +28,8 @@
         <module>rabbit-ack-direct-provider</module>
         <module>cloud-eureka</module>
         <module>cloud-eureka-ha</module>
+        <module>eureka-simple-provide-user</module>
+        <module>eureka-simplec-onsumer-movie</module>
     </modules>
 
     <properties>
@@ -40,6 +42,22 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
     </dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>repackage</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
 
 
 

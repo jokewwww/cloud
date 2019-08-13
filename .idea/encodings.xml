@@ -7,6 +7,8 @@
     <file url="file://$PROJECT_DIR$/cloud-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-eureka-ha" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-rabbit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-simple-provide-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-simplec-onsumer-movie" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rabbit-ack-direct-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rabbit-ack-direct-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rabbit-direct-consumer" charset="UTF-8" />

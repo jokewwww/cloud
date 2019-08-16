@@ -11,6 +11,8 @@
         <module name="cloud-eureka" />
         <module name="cloud-eureka-ha" />
         <module name="cloud-rabbit" />
+        <module name="eureka-discovery-user" />
+        <module name="eureka-provider-user-ribbon" />
         <module name="eureka-simple-provide-user" />
         <module name="eureka-simplec-onsumer-movie" />
         <module name="rabbit-ack-direct-consumer" />
@@ -30,6 +32,8 @@
       <module name="cloud-eureka" target="1.8" />
       <module name="cloud-eureka-ha" target="1.8" />
       <module name="cloud-rabbit" target="1.8" />
+      <module name="eureka-discovery-user" target="1.8" />
+      <module name="eureka-provider-user-ribbon" target="1.8" />
       <module name="eureka-simple-provide-user" target="1.8" />
       <module name="eureka-simplec-onsumer-movie" target="1.8" />
       <module name="rabbit-ack-direct-consumer" target="1.8" />
@@ -50,6 +54,8 @@
       <module name="cloud-eureka" options="-parameters" />
       <module name="cloud-eureka-ha" options="-parameters" />
       <module name="cloud-rabbit" options="-parameters" />
+      <module name="eureka-discovery-user" options="-parameters" />
+      <module name="eureka-provider-user-ribbon" options="-parameters" />
       <module name="eureka-simple-provide-user" options="-parameters" />
       <module name="eureka-simplec-onsumer-movie" options="-parameters" />
       <module name="rabbit-ack-direct-consumer" options="-parameters" />

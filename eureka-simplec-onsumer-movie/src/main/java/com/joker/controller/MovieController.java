@@ -12,11 +12,13 @@ import com.joker.entity.User;
 @RestController
 public class MovieController {
 
-    @Autowired private RestTemplate restTemplate;
+
+    @Autowired
+    private RestTemplate restTemplate;
 
 
     @RequestMapping("/get/{id}")
     public User get(@PathVariable Long id){
-        return restTemplate.getForObject("http://localhost:7900/find/"+id,User.class);
+        return restTemplate.getForObject("http://user-provider:7900/find/"+id,User.class);
     }
 }
